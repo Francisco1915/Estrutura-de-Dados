@@ -1,0 +1,78 @@
+{
+    "caminhos": [{
+            "de": "Mercado1",
+            "para": "Armazem3",
+            "distancia": 7.0
+        }, {
+            "de": "Mercado1",
+            "para": "Armazem3",
+            "distancia": 7.0
+        }, {
+            "de": "Mercado1",
+            "para": "Armazem3",
+            "distancia": 7.0
+        }, {
+            "de": "Mercado1",
+            "para": "Armazem3",
+            "distancia": 7.0
+        }, {
+            "de": "Mercado1",
+            "para": "Armazem3",
+            "distancia": 7.0
+        }, {
+            "de": "Mercado1",
+            "para": "Armazem3",
+            "distancia": 7.0
+        }, {
+            "de": "Mercado1",
+            "para": "Armazem3",
+            "distancia": 7.0
+        }, {
+            "de": "Mercado1",
+            "para": "Armazem3",
+            "distancia": 7.0
+        }],
+    "name": "Empresa",
+    "vendedores": [{
+            "mercados_visitar": ["Mercado1", "Mercado3"],
+            "name": "Luis",
+            "capacidade": 100,
+            "id": 1,
+            "stock": 100
+        }, {
+            "mercados_visitar": ["Mercado1", "Mercado3"],
+            "name": "francisco",
+            "capacidade": 100,
+            "id": 2,
+            "stock": 100
+        }],
+    "locais": [{
+            "capacidade": 100,
+            "nome": "Armazem4",
+            "stock": 70
+        }, {
+            "nome": "Mercado2",
+            "clientes": [10, 20]
+        }, {
+            "nome": "Mercado5",
+            "clientes": [5, 10, 20, 15]
+        }, {
+            "nome": "Mercado3",
+            "clientes": [10, 10, 20]
+        }, {
+            "nome": "Mercado1",
+            "clientes": [10]
+        }, {
+            "capacidade": 100,
+            "nome": "Armazem3",
+            "stock": 80
+        }, {
+            "capacidade": 100,
+            "nome": "Armazem2",
+            "stock": 90
+        }, {
+            "capacidade": 100,
+            "nome": "Armazem1",
+            "stock": 100
+        }]
+}
